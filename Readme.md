@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXPivotGrid_CellTemplate/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_CellTemplate/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXPivotGrid_CellTemplate/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXPivotGrid_CellTemplate/MainPage.xaml))
+<!-- default file list end -->
 # How to: Customize the Cell Template
 
 
